@@ -470,6 +470,7 @@ print(best_x, best_y)
 ```
 
 
+
 # Projects using scikit-opt
 
 - [Yu, J., He, Y., Yan, Q., & Kang, X. (2021). SpecView: Malware Spectrum Visualization Framework With Singular Spectrum Transformation. IEEE Transactions on Information Forensics and Security, 16, 5093-5107.](https://ieeexplore.ieee.org/abstract/document/9607026/)
